@@ -1,2 +1,3 @@
 # directorybuster.py
-directorybuster.py --> bruteforces the directories for you.
+directorybuster.py --> brute forces the directories for you.
+made with love, don't use it for bad.

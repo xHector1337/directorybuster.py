@@ -7,7 +7,7 @@ url = str(sys.argv[1])
 wordlist = sys.argv[2]
 extension = str(sys.argv[3])
 if 'http' not in url:
-    print('Usage: ',str(sys.argv[0]),'url','wordlist')
+    print('Usage: ',str(sys.argv[0]),'url','wordlist','extension')
     sys.exit(1)
 
 def bruteforcer(url,wordlist,extension):
